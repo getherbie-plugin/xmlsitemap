@@ -18,10 +18,7 @@ use Herbie\Menu\Page\Item;
 class XmlsitemapPlugin extends Herbie\Plugin
 {
 
-    /**
-     * @param Herbie\Event $event
-     */
-    public function onPluginsInitialized(Herbie\Event $event)
+    public function onPluginsInitialized()
     {
         if($this->config->isEmpty('plugins.config.xmlsitemap.no_page')) {
             $this->config->push('pages.extra_paths', '@plugin/xmlsitemap/pages');

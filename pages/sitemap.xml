@@ -4,6 +4,7 @@ content_type: text/xml
 keep_extension: true
 hidden: true
 plugin: xmlsitemap
+twig: true
 ---
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% for item in site.menu %}
