@@ -22,4 +22,4 @@ Danach aktivierst du das Plugin in der Konfigurationsdatei.
 Demo
 ----
 
-<http://getherbie.org/sitemap.xml>
+<http://www.getherbie.org/sitemap.xml>
