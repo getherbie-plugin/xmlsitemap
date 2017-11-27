@@ -1,6 +1,6 @@
 {
     "name": "getherbie/plugin-xmlsitemap",
-    "homepage": "http://www.getherbie.org",
+    "homepage": "https://www.getherbie.org",
     "description": "XML-Sitemap Plugin for Herbie (Google & Co).",
     "keywords": ["herbie", "plugin", "rss", "feed"],
     "type": "herbie-plugin",

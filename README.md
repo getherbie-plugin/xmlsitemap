@@ -34,4 +34,4 @@ Xmlsitemap-Plugins nach.
 
 ## Demo
 
-<http://www.getherbie.org/sitemap.xml>
+<https://www.getherbie.org/sitemap.xml>
